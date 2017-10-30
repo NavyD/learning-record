@@ -180,7 +180,7 @@ get and remove:只介绍poll方法，peek只是返回与这个差不多
         tail = n;
     }
 扩容示意图：
-![](/images/ArrayDeque_doubleCapacity.png)
+![](images/ArrayDeque_doubleCapacity.png)
 
      /**
      * 复制elements数组到指定数组。需要指定数组比elements足够大
